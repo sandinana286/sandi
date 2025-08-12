@@ -73,11 +73,14 @@ section{
 .footer{
     text-align: center ;
     padding:1rem;
-    background-color: black;
+    background-color: rgb(182, 94, 94);
     color: aliceblue;
     margin-top: 2rem;
     
 }
 .container{
-    background-color: #111110;
+    background-color: #006ae2;
+    display: flex;
+    justify-content: center;
+    
 }
