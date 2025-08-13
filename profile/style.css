@@ -1,6 +1,8 @@
 
 body{
     margin: 0;
+background: #c322a5;
+background: linear-gradient(145deg, rgba(195, 34, 165, 1) 0%, rgba(253, 187, 45, 1) 100%);
 }
 nav{
  display: flex;  
@@ -41,7 +43,7 @@ background: linear-gradient(340deg,rgba(42, 123, 155, 1) 11%, rgba(87, 199, 133,
     height:200px ;
     margin-right: 10%;
     object-fit: cover;
-}
+}000
 
 section{
     padding: 2rem;
